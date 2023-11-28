@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+/* --- --- HEADER --- --- */
+.header {
+    background-color: #1D1D1F;
+    color: #fff;
+}
